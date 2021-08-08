@@ -1,0 +1,2 @@
+rootProject.name = "WiFiP2P"
+include ':app'
